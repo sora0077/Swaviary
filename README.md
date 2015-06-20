@@ -1,2 +1,3 @@
 # Swaviary
-a modular Swift webserver interface
+
+Swaviary, a modular Swift webserver interface
