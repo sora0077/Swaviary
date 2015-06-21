@@ -1,14 +1,14 @@
-= Swaviary
+# Swaviary
 
 Swaviary, a modular Swift webserver interface
 
-== Supported web servers
+## Supported web servers
 
 * aaa
 * bbb
 * ccc
 
-== Supported web frameworks
+## Supported web frameworks
 
 * aaa
 * bbb
